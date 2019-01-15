@@ -1,6 +1,6 @@
 # File_mtar
 
-Project corresponding to the subject Operational Systems (SO) of the Complutense University of Madrid that performs Simple C unix fileSystem.
+File_mtar is a repository which contains the project for the subject Operative Systemas of Software Engineer Bachelor's Degree at Universidad Complutense Madrid.
 
 ### Prerequisites
 
